@@ -1,4 +1,4 @@
-name: derekclair
+name: Derek Clair
 favicon: null
 layout_spectrum: 0
 typography_spectrum: 0.28631
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.25
-  lightness: 0.3125
-  saturation: 0.875
-  rhythmicContrast: 0.25
+    - '#9d9c9a'
+    - '#6c6b69'
+    - '#444341'
+    - '#020202'
+    - '#fafafa'
+  brandStrength: 0.625
+  lightness: 0.5625
+  saturation: 0.125
+  rhythmicContrast: 0.75
 purpose: []
